@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:6A11CB,50:B721FF,100:FC5C7D&text=Zeynep%20Baydo%C4%9Fan&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%26%20Analytics%20Student%20%C2%B7%20Veri%20Bilimi%20ve%20Analiti%C4%9Fi%20%C3%96%C4%9Frencisi&descSize=17&descAlignY=58" alt="Zeynep Baydoğan" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:6A11CB,50:B721FF,100:FC5C7D&text=Zeynep%20Baydo%C4%9Fan&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20and%20Analytics%20Student%20%C2%B7%20Veri%20Bilimi%20ve%20Analiti%C4%9Fi%20%C3%96%C4%9Frencisi&descSize=17&descAlignY=58" alt="Zeynep Baydoğan" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeynepbaydogan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=B721FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I%27m+Zeynep%21;Data+Science+%26+Analytics+Student;Machine+Learning+%C2%B7+Image+Processing;Power+BI+%C2%B7+Tableau+%C2%B7+Python+%C2%B7+R;Merhaba%2C+ben+Zeynep%21;Verilerle+hik%C3%A2ye+anlat%C4%B1yorum" alt="Typing SVG"/></a>
+  <a href="https://github.com/zeynepbaydogan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=B721FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I%27m+Zeynep%21;Data+Science+and+Analytics+Student;Machine+Learning+%C2%B7+Image+Processing;Power+BI+%C2%B7+Tableau+%C2%B7+Python+%C2%B7+R;Merhaba%2C+ben+Zeynep%21;Verilerle+hik%C3%A2ye+anlat%C4%B1yorum" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
