@@ -1,0 +1,52 @@
+# Hi, I'm Zeynep 👋
+
+I'm a 3rd-year **Data Science and Analytics** student at **Sakarya University** 📊, also pursuing a **double major in Industrial Engineering** and a **minor in Artificial Intelligence**.
+I work on **data analysis, data visualization, image processing and machine learning**, and I build dashboards with Power BI, Tableau and Excel.
+
+- 🔭 Interested in machine learning, neural networks and image processing
+- 📈 Turning data into clear dashboards and presentations
+- ☕ Currently improving my Java skills (Swing, JDBC + MySQL)
+- 💬 Feel free to review my work and give feedback!
+
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/zeynepbaydogan" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/></a>
+</p>
+
+### 🚀 Languages and Tools:
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" title="R" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL / MySQL" title="SQL / MySQL" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/></a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" width="40" height="40"/></a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel"/> <img src="https://img.shields.io/badge/Jamovi-2B6CB0?style=for-the-badge" alt="Jamovi"/>
+</p>
+
+### 🧠 Projects
+| Project | What I did |
+|---|---|
+| 🕵️ **Krimino AI — Criminal Identification System** *(team project)* | Built the Python model that links past cases with new ones, and the crime-rate calculator. The system matches cases by given criteria and calculates the crime rate. |
+| 😴 **Sleep Disorder Detection** | Developed a sleep disorder detection system with artificial neural networks and turned it into an app with a user interface. |
+| 🛣️ **Road Damage Detection — RDD 2022** *(National Technology Workshops, 2 months)* | Analyzed the RDD 2022 dataset and developed an image processing project that predicts new road damages from new samples. |
+| 🖼️ **Image Processing Studies** | Smoke detection, brain tumor detection and car detection. |
+| 🌾 **Climate Change & Crop Yield Prediction** | Analyzed the data, visualized the results in a dashboard and presented them. |
+| 📊 **Data Analysis Projects** *(project manager)* | World Happiness data analysis — my professor asked to use the materials in class. IMDb movie ratings and student depression data analyses. |
+| 📋 **Survey Study** | Designed and ran our own survey with friends and analyzed the data with Jamovi. |
+
+### 📚 Relevant Coursework
+Probabilistic Machine Learning · Optimization Techniques · Database Management Systems · Artificial Neural Networks · Object-Oriented Programming · Signal and Image Analytics · Python Programming
+
+### 🏅 Certificates & Trainings
+- Object-Oriented Programming — Java
+- Advanced Excel Development — *Kocaeli University Continuing Education Center*
+- Dashboards & Advanced Functions in Excel; Introduction to Generative AI — *BTK Akademi*
+- Basic Jamovi Training; Introduction to Data Science — *Research Methods Training and Application Center*
+
+### 🌍 Languages
+Turkish (native) · English (B1)
